@@ -226,7 +226,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |------|------|---------|
 | **Lead Developer** | Furkan Aksoy | 210706029@st.maltepe.edu.tr |
 | **Project Supervisor** | Dr. Emre Atlıer Olca | emre.olca@maltepe.edu.tr |
-
+| **Contributors** | Emre Sarı, Omar Elbediwi | - |
 
 ## 🏫 Institution
 
@@ -247,6 +247,8 @@ For questions, suggestions, or collaboration opportunities:
 
 - Dr. Emre Atlıer Olca for project supervision and guidance
 - Maltepe University Faculty of Engineering and Natural Sciences
+- All contributors and testers who helped improve the application
+
 
 ---
 
